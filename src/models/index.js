@@ -6,7 +6,7 @@ import { schema } from './schema';
 
 const { Cart, Cartitem, Category, Product } = initSchema(schema);
 
-export {
+export  {
   Cart,
   Cartitem,
   Category,

@@ -4,6 +4,14 @@
  * Any changes to this file will be overwritten when running amplify pull. *
  **************************************************************************/
 
+export { default as ItemCardBCollection } from "./ItemCardBCollection";
+export { default as ItemCardACollection } from "./ItemCardACollection";
+export { default as ItemCardA } from "./ItemCardA";
+export { default as MyIcon } from "./MyIcon";
+export { default as ItemCardC } from "./ItemCardC";
+export { default as Footer } from "./Footer";
+export { default as NavBar } from "./NavBar";
+export { default as ItemCardB } from "./ItemCardB";
 export { default as studioTheme } from "./studioTheme";
 export { default as CartCreateForm } from "./CartCreateForm";
 export { default as CartUpdateForm } from "./CartUpdateForm";
